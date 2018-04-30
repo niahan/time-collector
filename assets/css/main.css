@@ -1,0 +1,34 @@
+.login{
+    flex-direction: column;
+    width: 30vw;
+    border : 1px black solid;
+    padding: 10px;
+    text-align: center;
+}
+.login-input{
+    width: 25vw;
+    padding: 10px;
+    margin: 10px;
+}
+.login-header{
+    padding: 10px;
+    /*margin:10px;*/
+    border: 1px black solid;
+    width: 30vw;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#log-button{
+    background-color: orange;
+    color:white;
+    border: none;
+}
+.login-footer{
+    padding: 10px;
+}
+.container{
+    position: relative;
+    left: 35vw;
+    top: 20vmin;
+}
